@@ -1,6 +1,6 @@
 {
-  code: "OK",
-  data: [
-    {NAME: "HERRY"}
+  "code": "OK",
+  "data": [
+    {"NAME": "HERRY"}
   ]
 }
